@@ -1,0 +1,27 @@
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.exe
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.deps.json
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.runtimeconfig.json
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.runtimeconfig.dev.json
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.dll
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.pdb
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.csprojAssemblyReference.cache
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.AssemblyInfoInputs.cache
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.AssemblyInfo.cs
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.csproj.CoreCompileInputs.cache
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.dll
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.pdb
+E:\1A УЧЕБА\Лабораторные СТПМС 3 сем\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.genruntimeconfig.cache
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.exe
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.deps.json
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.runtimeconfig.json
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.runtimeconfig.dev.json
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.dll
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\bin\Debug\netcoreapp3.1\STPMS6.pdb
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.csproj.AssemblyReference.cache
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.AssemblyInfoInputs.cache
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.AssemblyInfo.cs
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.csproj.CoreCompileInputs.cache
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.dll
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.pdb
+D:\БГТУ\2 курс\ООП\STPMS6\STPMS6\obj\Debug\netcoreapp3.1\STPMS6.genruntimeconfig.cache
